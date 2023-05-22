@@ -1,4 +1,4 @@
 # Tiendita 1
 ~~~javascript
- let 
+ let name = "Joako"
 ~~~~
